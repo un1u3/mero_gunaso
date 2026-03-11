@@ -1,0 +1,82 @@
+complaint_type,ward,municipality,district,province,specific_location,description,severity,date
+road_damage,3,Kathmandu Metropolitan City,Kathmandu,Bagmati,"Near Pashupatinath Temple, main road","Large potholes blocking traffic, cars getting damaged",4,2024-03-11
+electricity,5,Kathmandu Metropolitan City,Kathmandu,Bagmati,"Naxal residential zone","No power for 20 hours daily, unbearable load shedding",4,2024-03-10
+water_supply,8,Kathmandu Metropolitan City,Kathmandu,Bagmati,"Bhaktapur side","No water supply for 3 days, taps completely dry",5,2024-03-09
+sanitation,12,Pokhara Metropolitan City,Kaski,Gandaki,"Lakeside Road","Garbage not collected, trash piling up and smell",3,2024-03-05
+pollution,7,Butwal Sub-Metropolitan City, Rupandehi,Lumbini,"Bhairahawa Road","Air pollution heavy especially mornings",3,2024-02-27
+police_service,2,Biratnagar Sub-Metropolitan City,Morang,Koshi,"Ward 2 Market","Police response slow for theft reports",2,2024-02-25
+road_damage,6,Bharatpur Metropolitan City,Chitwan,Bagmati,"Riverside Road","Road surface damaged, dangerous for motorcycles",3,2024-02-23
+education,4,Lalitpur Metropolitan City,Lalitpur,Bagmati,"Jyatha Street","School lacks enough classrooms for students",2,2024-02-21
+corruption,5,Dhangadhi Sub-Metropolitan City,Kailali,Karnali,"Hospital Road","Hospital staff demanded unofficial payment",4,2024-02-19
+health,9,Janakpur,Dhanusha,Madhesh,"Laxmi Chowk","Clinic lacks essential medicines regularly",5,2024-02-17
+road_damage,10,Butwal Sub-Metropolitan City,Rupandehi,Lumbini,"East Street","Potholes causing frequent bike accidents",4,2024-02-14
+electricity,1,Bhaktapur Municipality,Bhaktapur,Bagmati,"Kathmandu Road","Frequent voltage fluctuations damaging appliances",3,2024-02-12
+water_supply,11,Dhangadhi Sub-Metropolitan City,Kailali,Karnali,"Ward 11","Water pipeline burst, no supply",4,2024-02-10
+internet,2,Birgunj Metropolitan City,Parsa,Madhesh,"Birgunj Main Road","Slow internet affecting business operations",2,2024-02-08
+road_damage,8,Itahari Sub-Metropolitan City,Sunsari,Koshi,"Itahari Bypass","Huge pothole near petrol pump",4,2024-02-05
+gas_supply,3,Butwal Sub-Metropolitan City,Rupandehi,Lumbini,"Industrial Area","Gas cylinder supplies irregular, shortages daily",3,2024-02-03
+garbage,5,Pokhara Metropolitan City,Kaski,Gandaki,"Deep Area","Garbage dumping ground issue, rats and smell",4,2024-01-30
+education,6,Dhankuta Municipality,Dhankuta,Koshi,"Ward 6","Teacher absenteeism affecting classes",2,2024-01-28
+corruption,7,Lahan Municipality,Siraha,Madhesh,"Market Road","Officials asking for bribes in licensing",5,2024-01-26
+road_damage,9,Birgunj Metropolitan City,Parsa,Madhesh,"Station Road","Road broken after rains, flooding potholes",3,2024-01-24
+electricity,4,Sindhuli Municipality,Sindhuli,Bagmati,"Main Bazaar","Power cuts irregular, no schedule",3,2024-01-22
+water_supply,2,Lahan Municipality,Siraha,Madhesh,"Near School Gate","Water supply contamination noted",5,2024-01-20
+health,3,Biratnagar Sub-Metropolitan City,Morang,Koshi,"Hospital Road","Primary health center lacks doctors",4,2024-01-18
+road_damage,10,Kathmandu Metropolitan City,Kathmandu,Bagmati,"Baneshwor Chowk","Bus turning area potholes deep",4,2024-01-15
+education,11,Janakpur,Dhanusha,Madhesh,"Ward 11","Mid-day meal not served regularly",3,2024-01-13
+road_damage,5,Dangraha Municipality,Sunsari,Koshi,"Dangraha Road","Severe road cracks after monsoon",3,2024-01-11
+pollution,8,Pokhara Metropolitan City,Kaski,Gandaki,"Lakeside","Smoke and dust causing cough in evenings",3,2024-01-08
+electricity,9,Birgunj Metropolitan City,Parsa,Madhesh,"Industrial Park","Street lights not working for nights",2,2023-12-31
+sanitation,6,Kathmandu Metropolitan City,Kathmandu,Bagmati,"Kalanki Bridge Area","Drainage blocked, garbage everywhere",4,2023-12-29
+water_supply,7,Lalitpur Metropolitan City,Lalitpur,Bagmati,"Ward 7","Low water pressure for weeks",3,2023-12-27
+road_damage,12,Bhaktapur Municipality,Bhaktapur,Bagmati,"Ward 12","Road edge collapsed near community hall",4,2023-12-24
+corruption,8,Dhangadhi Sub-Metropolitan City,Kailali,Karnali,"Ward 8","Police extorted unofficial fee in property case",4,2023-12-22
+health,4,Bharatpur Metropolitan City,Chitwan,Bagmati,"City Hospital","Poor sanitation in emergency ward",5,2023-12-20
+electricity,3,Itahari Sub-Metropolitan City,Sunsari,Koshi,"Sector 3","Transformer breakdown, area dark nights",4,2023-12-18
+road_damage,2,Hetauda Sub-Metropolitan City, Makwanpur,Bagmati,"Near Hetauda Chowk","Road collapsed, heavy traffic jams",4,2024-01-16
+electricity,4,Surkhet Municipality, Surkhet, Karnali,"Market Road","Frequent blackout during peak hours",4,2024-01-14
+water_supply,5,Nepalgunj Sub-Metropolitan City,Banke,Bheri,"Ward 5","Water shortage for past 2 days",4,2024-01-12
+garbage,3,Dharan Sub-Metropolitan City,Sunsari,Koshi,"Main Bazaar","Garbage bins overflowing, smell spreading",3,2024-01-10
+health,6,Baglung Municipality,Baglung,Gandaki,"Near Community Health Center","Lack of doctors, patients waiting long hours",5,2024-01-08
+education,7,Gorkha Municipality,Gorkha,Gandaki,"Ward 7","School roof damaged, classes disrupted",3,2024-01-06
+road_damage,8,Hetauda Sub-Metropolitan City,Makwanpur,Bagmati,"Ward 8","Potholes making motorcycle travel risky",4,2024-01-04
+pollution,2,Butwal Sub-Metropolitan City,Rupandehi,Lumbini,"Industrial Road","Smoke from factories affecting residents",3,2024-01-02
+electricity,9,Pokhara Metropolitan City,Kaski,Gandaki,"Ward 9","Transformer issues, street lights off",3,2023-12-31
+water_supply,10,Janakpur,Dhanusha,Madhesh,"Ward 10","Water tap dry since last week",4,2023-12-29
+road_damage,3,Itahari Sub-Metropolitan City,Sunsari,Koshi,"Near School","Severe cracks on main street",4,2023-12-27
+garbage,1,Birgunj Metropolitan City,Parsa,Madhesh,"Ward 1","Garbage collection irregular, rats visible",4,2023-12-25
+corruption,5,Dhangadhi Sub-Metropolitan City,Kailali,Karnali,"Ward 5","Officials demanded bribes in registration",5,2023-12-23
+health,4,Lalitpur Metropolitan City,Lalitpur,Bagmati,"Ward 4","No medicines available at local clinic",4,2023-12-21
+internet,6,Kathmandu Metropolitan City,Kathmandu,Bagmati,"Ward 6","Slow internet affecting offices",3,2023-12-19
+road_damage,7,Bhaktapur Municipality,Bhaktapur,Bagmati,"Ward 7","Collapsed road after rainfall",4,2023-12-17
+electricity,2,Hetauda Sub-Metropolitan City,Makwanpur,Bagmati,"Industrial Area","Frequent load shedding",4,2023-12-15
+water_supply,3,Nepalgunj Sub-Metropolitan City,Banke,Bheri,"Ward 3","Pipe leakage, water contamination reported",5,2023-12-13
+garbage,5,Dharan Sub-Metropolitan City,Sunsari,Koshi,"Ward 5","Waste disposal irregular, stench in streets",3,2023-12-11
+road_damage,6,Surkhet Municipality,Surkhet,Karnali,"Ward 6","Large potholes near bridge",4,2023-12-09
+pollution,4,Birgunj Metropolitan City,Parsa,Madhesh,"Ward 4","Air quality poor, visible dust",3,2023-12-07
+education,3,Gorkha Municipality,Gorkha,Gandaki,"Ward 3","School lacks sufficient benches",2,2023-12-05
+corruption,7,Hetauda Sub-Metropolitan City,Makwanpur,Bagmati,"Ward 7","Local office demanded extra fees",5,2023-12-03
+health,8,Baglung Municipality,Baglung,Gandaki,"Ward 8","Hospital understaffed, long waiting lines",4,2023-12-01
+road_damage,9,Butwal Sub-Metropolitan City,Rupandehi,Lumbini,"Ward 9","Road edge broken, dangerous for bikes",4,2023-11-29
+electricity,10,Pokhara Metropolitan City,Kaski,Gandaki,"Ward 10","Frequent power interruptions",3,2023-11-27
+water_supply,1,Janakpur,Dhanusha,Madhesh,"Ward 1","Water taps dry, residents storing water from wells",5,2023-11-25
+garbage,2,Dhangadhi Sub-Metropolitan City,Kailali,Karnali,"Ward 2","Trash piles increasing due to irregular collection",3,2023-11-23
+road_damage,3,Lalitpur Metropolitan City,Lalitpur,Bagmati,"Ward 3","Deep potholes near temple area",4,2023-11-21
+pollution,5,Hetauda Sub-Metropolitan City,Makwanpur,Bagmati,"Ward 5","Dust from construction sites affecting nearby homes",3,2023-11-19
+electricity,6,Nepalgunj Sub-Metropolitan City,Banke,Bheri,"Ward 6","Voltage fluctuation damaging appliances",4,2023-11-17
+health,7,Dharan Sub-Metropolitan City,Sunsari,Koshi,"Ward 7","Clinic running out of essential medicines",5,2023-11-15
+education,8,Gorkha Municipality,Gorkha,Gandaki,"Ward 8","Classes cancelled due to teacher shortage",3,2023-11-13
+road_damage,9,Butwal Sub-Metropolitan City,Rupandehi,Lumbini,"Ward 9","Road surface damaged, motorbikes slipping",4,2023-11-11
+garbage,10,Birgunj Metropolitan City,Parsa,Madhesh,"Ward 10","Overflowing bins near market area",4,2023-11-09
+corruption,1,Hetauda Sub-Metropolitan City,Makwanpur,Bagmati,"Ward 1","Extra fees charged at municipal office",5,2023-11-07
+pollution,2,Pokhara Metropolitan City,Kaski,Gandaki,"Ward 2","Vehicle emissions high, residents reporting cough",3,2023-11-05
+electricity,3,Janakpur,Dhanusha,Madhesh,"Ward 3","Transformer problem, intermittent power supply",4,2023-11-03
+water_supply,4,Dhangadhi Sub-Metropolitan City,Kailali,Karnali,"Ward 4","Contaminated water detected, locals avoiding tap water",5,2023-11-01
+road_damage,5,Lalitpur Metropolitan City,Lalitpur,Bagmati,"Ward 5","Cracks along main street, minor accidents reported",3,2023-10-30
+health,6,Baglung Municipality,Baglung,Gandaki,"Ward 6","Emergency ward understaffed, critical patients waiting",5,2023-10-28
+education,7,Gorkha Municipality,Gorkha,Gandaki,"Ward 7","Insufficient classroom space",2,2023-10-26
+garbage,8,Butwal Sub-Metropolitan City,Rupandehi,Lumbini,"Ward 8","Trash collection irregular, stench reported",3,2023-10-24
+electricity,9,Pokhara Metropolitan City,Kaski,Gandaki,"Ward 9","Frequent blackouts at night",4,2023-10-22
+water_supply,10,Janakpur,Dhanusha,Madhesh,"Ward 10","Low water pressure, residents using tankers",4,2023-10-20
+road_damage,1,Birgunj Metropolitan City,Parsa,Madhesh,"Ward 1","Road broken near bus stop",4,2023-10-18
+pollution,2,Dhangadhi Sub-Metropolitan City,Kailali,Karnali,"Ward 2","Smoke from brick kilns affecting air quality",3,2023-10-16

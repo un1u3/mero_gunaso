@@ -1,0 +1,58 @@
+{
+    "complaint_type": {
+      "type": "string",
+      "enum": [
+        "road_damage",
+        "electricity",
+        "water_supply",
+        "health",
+        "corruption",
+        "education",
+        "police",
+        "waste",
+        "other"
+      ],
+      "required": true
+    },
+    "ward": {
+      "type": "integer",
+      "required": true,
+      "validation": "must exist in locations.json"
+    },
+    "municipality": {
+      "type": "string",
+      "required": true,
+      "auto_fill": "based on ward"
+    },
+    "district": {
+      "type": "string",
+      "required": true,
+      "auto_fill": "based on municipality"
+    },
+    "province": {
+      "type": "string",
+      "required": true,
+      "auto_fill": "based on district"
+    },
+    "specific_location": {
+      "type": "string",
+      "required": false,
+      "description": "Near temple, main road, etc."
+    },
+    "description": {
+      "type": "string",
+      "required": true,
+      "min_length": 10,
+      "max_length": 2000
+    },
+    "severity": {
+      "type": "integer",
+      "range": [1, 5],
+      "required": true
+    },
+    "date": {
+      "type": "date",
+      "required": false,
+      "auto_fill": "today if not provided"
+    }
+  }
