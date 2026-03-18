@@ -1,9 +1,7 @@
-import re 
-import unicodedata # for nepali 
-from nltk.corpus import stopwords 
+import re
+import unicodedata
 
-import ntlk 
-nltk.download('stopwords')
+from nltk.corpus import stopwords as nltk_stopwords
 
 
 def clean_text(text: str) -> str:
@@ -28,14 +26,23 @@ def clean_text(text: str) -> str:
 
 
 
-def remove_stopwords(text):
-    stopwords = set(stopwords.words('english'))
+def remove_stopwords(text: str) -> str:
+    if not text:
+        return ""
+
+    try:
+        english_stopwords = set(nltk_stopwords.words("english"))
+    except LookupError:
+        return text
+
     words = text.split()
-    filtered_words = [word for words in words if word.lower() not in stopwords]
-    return "".join(filtered_words)
+    filtered_words = [
+        word for word in words if word.lower() not in english_stopwords
+    ]
+    return " ".join(filtered_words)
 
 
-def preprocess_complaint(text):
+def preprocess_complaint(text: str) -> str:
     if not text:
         return ""
     text = clean_text(text)
